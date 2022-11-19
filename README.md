@@ -1,3 +1,6 @@
+https://forum.arduino.cc/t/soldering-station-help/881003/21
+https://blog.junix.in/2018/12/24/thermocouple-amplifier-with-op07c-op-amp/
+
 This is a project I've been working on for a little bit. Any questions are very welcome!
 
 It's an "equivalent performance" JBC T245 soldering iron stand.
