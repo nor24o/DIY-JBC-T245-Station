@@ -1,3 +1,5 @@
+https://circuitdigest.com/microcontroller-projects/diy-digital-soldering-iron-controller-circuit
+
 https://forum.arduino.cc/t/soldering-station-help/881003/21
 
 https://blog.junix.in/2018/12/24/thermocouple-amplifier-with-op07c-op-amp/
