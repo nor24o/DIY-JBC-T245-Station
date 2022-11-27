@@ -1,3 +1,5 @@
+https://create.arduino.cc/projecthub/lazyvlad/simple-arduino-soldering-station-323e6b
+
 https://circuitdigest.com/microcontroller-projects/diy-digital-soldering-iron-controller-circuit
 
 https://forum.arduino.cc/t/soldering-station-help/881003/21
